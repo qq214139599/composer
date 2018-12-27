@@ -1,0 +1,6 @@
+{
+    "name": "qq214139599/composer",
+    "require": {
+        "illuminate/database": "^5.7"
+    }
+}
