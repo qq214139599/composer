@@ -1,5 +1,11 @@
 {
     "name": "qq214139599/composer",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/qq214139599/composer"
+        }
+    ],
     "require": {
         "illuminate/database": "^5.7"
     }
